@@ -121,7 +121,7 @@ The project is structured into clear, decoupled Rust modules:
 
 ## 🗺️ Roadmap and Future Improvements
 
-The project provides a solid foundation, but many interesting improvements are planned. See [**ROADMAP.md**](https://www.google.com/search?q=ROADMAP.md) for the next steps, including:
+The project provides a solid foundation, but many interesting improvements are planned. See [**ROADMAP.md**](ROADMAP.md) for the next steps, including:
 
 1. **Cryptographic Transaction IDs**: Formalize transaction hashing.
 2. **Token Standardization**: Add compatibility with ERC-20-like interfaces.
